@@ -1,6 +1,6 @@
 # Ignorar archivos
 entrypoint.sh
-Dockerfile
 wait-for-psql.py
+Dockerfile
 odoo-db-data/
 odoo-web-data/
